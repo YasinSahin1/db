@@ -2,10 +2,10 @@
   "tickets": [
     {
       "type": "ticketOverview",
-      "id": 10,
+      "id": 11,
       "title": "OS Issue",
       "status": "Open",
-      "prio": "Prio 3",
+      "prio": "Prio 1",
       "description": "OS does not work."
     },
     {
