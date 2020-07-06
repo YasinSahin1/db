@@ -31,14 +31,6 @@
       "status": "In Progress",
       "prio": "Prio 3",
       "description": "McAfee does not work again.. change to Kaspersky.."
-    },
-    {
-      "type": "ticketOverview",
-      "id": 30,
-      "title": "Test Issue",
-      "status": "Open",
-      "prio": "Prio 1",
-      "description": "This s*it doesn't work again.. Delete me.."
     }
   ]
 }
